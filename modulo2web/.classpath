@@ -4,5 +4,5 @@
   <classpathentry kind="output" path="target/classes"/>
   <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
   <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
-  <classpathentry kind="var" path="M2_REPO/prj/com/it/modulo1java/1.0-SNAPSHOT/modulo1java-1.0-SNAPSHOT.jar"/>
+  <classpathentry kind="src" path="/modulo1java"/>
 </classpath>
